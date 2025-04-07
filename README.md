@@ -38,9 +38,7 @@ python manage.py runserver
 ## Flowchart:
 ![alt text](https://github.com/zerothrohit/shakti-sih/blob/main/Substation%20Chatbot%20Flowchart.png "Chatbot Flowchart") 
 
-## System Overview:
 
-[![Video](https://i.ytimg.com/vi/cBGa91qHYy4/hqdefault.jpg)](https://www.youtube.com/watch?v=cBGa91qHYy4)
 
 
 ## Versioning
